@@ -1,1 +1,15 @@
-# SOC-Homelab
+<h1>SOC Automation Homelab</h1>
+
+<h2>Description</h2>
+This project involves the use of virtual machines to simulate an SOC environment implemented with Wazah as an EDR, The Hive, and mimiKatz to simulate traffic.   
+<br />
+
+
+<h2>Languages and Utilities Used</h2>
+
+- <b>Wazah, The Hive</b> 
+
+
+<h2>Environments Used </h2>
+
+- <b>Virtual Box, Windows 10 ISO</b> 

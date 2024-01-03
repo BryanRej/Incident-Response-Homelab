@@ -17,4 +17,9 @@ This project involves the use of virtual machines to simulate a SOC environment 
 <h2>Program walk-through:</h2>
 
 <p align="center">
+  Create Logical Diagram: <br/>
+<img src="https://i.imgur.com/Glk7fxT.png" height="50%" width="50%" alt="Diagram creation"/>
+<br />
+<br />
+  
 Download VirtualBox: <br/>

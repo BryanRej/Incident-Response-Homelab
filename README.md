@@ -15,3 +15,6 @@ This project involves the use of virtual machines to simulate a SOC environment 
 - <b>Virtual Box, Windows 10 ISO</b> 
 
 <h2>Program walk-through:</h2>
+
+<p align="center">
+Download VirtualBox: <br/>
